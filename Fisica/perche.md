@@ -1,9 +1,9 @@
 ## Perchè questo libro
 
 
-fin da piccolo ero desideroso di nuove conoscenze, e di capire anche i collegamenti tra queste per avere una visione piu' ampia possibile: allora (anni 70-80, e famiglia povera) non esistevano molte possibilita'.
+Fin da piccolo ero desideroso di nuove conoscenze, e di capire anche i collegamenti tra queste per avere una visione piu' ampia possibile: allora (anni 70-80, e famiglia povera) non esistevano molte possibilita'.
 
-sempre fino da piccolo, non sono mai riuscito a capire il metodo di insegnamento e di studio: per il secondo mancavano soldi e insegnanti di sostegno, oltre che il supporto della famiglia di origine, per il secondo ho sempre litigato con me stesso e con gli insegnanti perche' non capivo, non capivo, facevo domande e non ottenevo risposte, non capivo i collegamenti tra le cose, e non capivo perche' le cose dovessero essere cosi' come "spiegate".
+Ancora, da sempre, non sono mai riuscito a capire i metodi di insegnamento e di studio: i primi a causa della mia neurodiversita' che ho scoperto solo in vecchiaia, e anche per la mancanza di soldi e insegnanti di sostegno, oltre che il supporto della famiglia di origine, per il secondo ho sempre litigato con me stesso e con gli insegnanti perche' non capivo, non capivo, facevo domande e non ottenevo risposte, non capivo i collegamenti tra le cose, e non capivo perche' le cose dovessero essere cosi' come "spiegate".
 
 una volta approdato all' universita' a PoliMI (nel 2006 alla fresca eta' di 44 anni) ho avuto, come tutti gli altri, uno shock durante il corso di Fisica (per gli altri corsi, no, visto che gia' conoscevo Elettronica ad un livello superiore, per Analisi gli insegnanti dell' ITIS erano stati molto scrupolosi): praticamente nel giro di un semestre (meno di 4 mesi reali) abbiamo svolto tutto il programma di Fisica classica e quel po di termodinamica e Fisica atomica, sino alla Fisica quantistica esclusa. Il tutto *senza* una preparazione di Analisi2 (quindi niente rotori, divergenza e compagnia bella), e non capivamo una beata fava.
 

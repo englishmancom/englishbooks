@@ -2,7 +2,7 @@
 
 ## Indice
 
-- [Perchè](perche.md) questo libro
+- [Perche'](perche.md) questo libro
 - [Note](note.md) sulla stesura e sull' inclusione
 - A chi e' [destinato](destinato.md) questo libro
 - [Introduzione](introduzione.md) (e via seguendo)

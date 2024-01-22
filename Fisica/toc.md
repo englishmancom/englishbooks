@@ -21,41 +21,41 @@
 - microstoria
 - scienza_parascienza
 - regole_fisica
--- definizione
--- falsificabilita
--- esattezza
--- ripetibilita
--- pseudoscienza
+ - definizione
+- falsificabilita
+- esattezza
+- ripetibilita
+- pseudoscienza
 - parole_strane
--- principio
--- legge
--- correlazione
--- finito
--- errato
--- principio
--- deterministico
--- stocastico
--- vero
--- ontologico
--- esatto
--- soddisfatto
--- ortonormale
--- esistente
--- discontinuita
--- soluzione
--- ipotesi
--- banale
--- gradiente
--- superstizione
--- modello
--- ortogonale
--- identita
--- chiralita
+- principio
+- legge
+- correlazione
+- finito
+- errato
+- principio
+- deterministico
+- stocastico
+- vero
+- ontologico
+- esatto
+- soddisfatto
+- ortonormale
+- esistente
+- discontinuita
+- soluzione
+- ipotesi
+- banale
+- gradiente
+- superstizione
+- modello
+- ortogonale
+- identita
+- chiralita
 - strumenti
--- vettori
--- numeri esponenziali
--- precisione
--- sistema di riferimento
--- unita di misura
--- multipli e sottomultipli
--- riferimenti
+- vettori
+- numeri esponenziali
+- precisione
+- sistema di riferimento
+- unita di misura
+- multipli e sottomultipli
+- riferimenti

@@ -1,37 +1,16 @@
-## Welcome to GitHub Pages
+## Benvenuti a EnglishBook, I libri di Englishman
 
-You can use the [editor on GitHub](https://github.com/englishmancom/englishbooks.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Una collezione di scritti che trattano materie scientifiche come Matematica, Fisica, Ingegneria per rurri coloro che vogliano imparare 
+o che vogliano rinfrescare le loro conoscenze, scritti, almeno questa e' l' intenzione, con uno stile semplice e 
+leggibile.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Spedite le vostre segnalazioni di errori, critiche o altro a englishman.com@gmail.com
 
-### Markdown
+## Nota di inclusivita'
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Sono nato a meta' del secolo scorso e ho ricevuto una educazione quasi prettamente maschilista e di vecchio stampo.
+Quindi, nonostante i miei sforzi nella stesura di queste pagine, puo' darsi che mi scappi qualche frase o parola orientata.
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/englishmancom/englishbooks.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Ebbene sappiate che, se dovesse capitare, quesi solo sono errori di stesura, e che questi scritti sono destinati a tutti indistintamente
+senza nessun riguardo per il loro sesso, eta', condizione sociale, idea politica, religione, etnia o condizione fisica, e quant' altro possa differenziare
+tra loro gli esseri umani.

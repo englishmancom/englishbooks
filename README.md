@@ -6,9 +6,11 @@ leggibile.
 
 Spedite le vostre segnalazioni di errori, critiche o altro a englishman.com@gmail.com
 
+
 ## Nota di inclusivita'
 
 Sono nato a meta' del secolo scorso e ho ricevuto una educazione quasi prettamente maschilista e di vecchio stampo.
+
 Quindi, nonostante i miei sforzi nella stesura di queste pagine, puo' darsi che mi scappi qualche frase o parola orientata.
 
 Ebbene sappiate che, se dovesse capitare, devono essere coniderati solo errori di stesura, e che questi scritti sono destinati a tutti indistintamente
